@@ -5,32 +5,30 @@ body {
 }
 
 p {
-    font-size: 39px;
+    font-size: 22px;
 }
 
 a {
-    color: firebrick;
+    color: #0008fb;
     text-decoration: none;
 }
 
 .background {
     height: 100%;
-    background-image: linear-gradient(#F2C48C, #2FT3F4);
+    background:#000000;
 }
 
 .middle {
     top: 50%;
     left: 50%;
     position: absolute;
-    transform: translate(-35%, -44%);
+    transform: translate(-50%, -50%);
 
-    padding: 3%;
-    border-radius: 145px;
-    background-color: azure;
-    box-shadow: 15px 15px #222;
+    padding:2%;
+    border-radius: 5px;
+    background-color: #051802;
 
-    color: purple;
-    line-height: 3;
-    text-align: justify;
-    font-family: "Monaco", Monaco, monospace;
+    color: #36b527;
+    line-height:2;
+    text-align: center;
 }
