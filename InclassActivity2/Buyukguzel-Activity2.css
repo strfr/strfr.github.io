@@ -31,6 +31,10 @@ th, td
 {
 	text-align: right;
 }
+.dep
+{
+	vertical-align: top;
+}
 
 tbody tr:nth-child(even) td 
 {
