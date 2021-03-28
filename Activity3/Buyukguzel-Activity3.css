@@ -53,6 +53,7 @@ ul{
     color: blueviolet;
     background: darkcyan;
     font-family:serif;
+    list-style-type: lower-roman;
 }
 a {
   color: hotpink;
