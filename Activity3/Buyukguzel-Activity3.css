@@ -33,9 +33,13 @@ body {
 #main img{
 
 }
-.altrow{
-background: cyan;
-}
+.altrow:nth-child(odd) {
+    background-color: Blue;
+;}
+.altrow:nth-child(even) {
+    background-color: blueviolet
+;}
+.altrow
 img{
     border: 2px solid green;
 }
@@ -50,7 +54,6 @@ ul{
     color: blueviolet;
     background: darkcyan;
     font-family:serif;
-    font-size: 25;
 }
 a {
   color: hotpink;
