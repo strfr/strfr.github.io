@@ -60,6 +60,12 @@ a {
 h1{
 font-family: fantasy
 }
-h2{
-font-family: cursive
+.mHeader{
+    font-family: "Papyrus"
+}
+.hHeader{
+    font-family: "Times New Roman"
+}
+.menuHeader{
+    font-family: "Brush Script MT"
 }
