@@ -39,9 +39,8 @@ body {
 .altrow:nth-child(even) {
     background-color: blueviolet
 ;}
-.altrow
 img{
-    border: 2px solid green;
+    border: 2px solid blue;
 }
 footer {
 font-size: small;
