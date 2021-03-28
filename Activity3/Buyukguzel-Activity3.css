@@ -1,0 +1,63 @@
+/*
+Lab 3 CSS styles
+CSS styles for Ultimate frisbee page
+*/
+
+body {
+  color: red;
+  font: 12pt "Tahoma", "Arial", sans-serif;
+    background: violet;
+    background-image: url(coffee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#wrapper{
+
+}
+
+#header {
+
+}
+
+#news {
+
+}
+
+
+#main {
+
+}
+
+#main img{
+
+}
+.altrow{
+background: cyan;
+}
+img{
+    border: 2px solid green;
+}
+footer {
+font-size: small;
+text-align: center    
+}
+table{
+    border: 8px solid green
+}
+ul{
+    color: blueviolet;
+    background: darkcyan;
+    font-family:serif;
+    font-size: 25;
+}
+a {
+  color: hotpink;
+}
+h1{
+font-family: fantasy
+}
+h2{
+font-family: cursive
+}
