@@ -1,0 +1,15 @@
+    .button {
+   border-radius: 3px;
+   }
+   .input {
+	margin-top:5px;
+	margin-bottom:5px;
+   }
+   br {
+    clear: left;
+   }
+   label {
+    width: 200px;
+    float: left;
+    margin:10px;
+   }
