@@ -1,2 +1,1 @@
-# snndmr.me
- Personal Website
+
